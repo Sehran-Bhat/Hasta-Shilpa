@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಹಸ್ತಶಿಲ್ಪ</string>
+    <string name="search_designs">ವಿನ್ಯಾಸಗಳನ್ನು ಹುಡುಕಿ...</string>
+    <string name="categories">ವರ್ಗಗಳು</string>
+    <string name="trending_designs">ಟ್ರೆಂಡಿಂಗ್ ವಿನ್ಯಾಸಗಳು</string>
+    <string name="blueprint">ನೀಲನಕ್ಷೆ</string>
+    <string name="measurements">ಅಳತೆಗಳು</string>
+    <string name="dimensions">ಆಯಾಮಗಳು:</string>
+    <string name="required_materials">ಅಗತ್ಯವಿರುವ ವಸ್ತುಗಳು:</string>
+    <string name="material_cost">ವಸ್ತುಗಳ ಬೆಲೆ</string>
+    <string name="labor_cost">ಕಾರ್ಮಿಕ ವೆಚ್ಚ</string>
+    <string name="total_price">ಒಟ್ಟು ಬೆಲೆ</string>
+    <string name="calculate_price">ಬೆಲೆ ಲೆಕ್ಕಾಚಾರ</string>
+    <string name="track_material">ವಸ್ತುಗಳ ಟ್ರ್ಯಾಕಿಂಗ್</string>
+    <string name="marketplace">ಮಾರುಕಟ್ಟೆ</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="home">ಮುಖಪುಟ</string>
+    <string name="discovery">ಅನ್ವೇಷಣೆ</string>
+    <string name="design_bridge">ಕುಶಲಕರ್ಮಿಗಳಿಗೆ ವಿನ್ಯಾಸ ಸೇತುವೆ</string>
+    <string name="get_started">ಪ್ರಾರಂಭಿಸಿ</string>
+</resources>

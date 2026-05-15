@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HastaShilpa</string>
+    <string name="search_designs">Search designs...</string>
+    <string name="categories">Categories</string>
+    <string name="trending_designs">Trending Designs</string>
+    <string name="blueprint">Blueprint</string>
+    <string name="measurements">Measurements</string>
+    <string name="dimensions">Dimensions:</string>
+    <string name="required_materials">Required Materials:</string>
+    <string name="material_cost">Material Cost</string>
+    <string name="labor_cost">Labor Cost</string>
+    <string name="total_price">Total Price</string>
+    <string name="calculate_price">Calculate Price</string>
+    <string name="track_material">Track Material</string>
+    <string name="marketplace">Marketplace</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="discovery">Discovery</string>
+    <string name="design_bridge">Design Bridge for Artisans</string>
+    <string name="get_started">Get Started</string>
+</resources>
