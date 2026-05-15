@@ -34,7 +34,7 @@ To install and run the Hasta-Shilpa application locally, follow these steps:
 5. Click the "Run" button in Android Studio (or press `Shift + F10`) to build, install, and run the app on your device/emulator.
 
 ## Screenshots / Demo
-*(Replace these placeholders with actual screenshots of your application)*
+
 
 | Home Screen | Blueprint Viewer | Material Tracker |
 |---|---|---|
