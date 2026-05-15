@@ -21,6 +21,22 @@ Hasta-Shilpa is a comprehensive Android application designed specifically for ba
 - ViewModel
 - Coil (Image Loading)
 
+## **Repository Structure**
+
+The project follows the MVVM (Model-View-ViewModel) architectural pattern to ensure separation of concerns, testability, and a clean codebase.
+
+```text
+HastaShilpa/
+├── app/src/main/java/com/example/hastashilpa/
+│   ├── data/            # Data models, repositories, and dummy data providers
+│   ├── navigation/      # Navigation graphs and route definitions (Navigation Compose)
+│   ├── ui/              # UI layer containing Jetpack Compose screens, reusable components, and theming
+│   ├── viewmodel/       # ViewModels to manage UI state and business logic
+│   └── MainActivity.kt  # The main entry point of the Android application
+├── app/src/main/res/    # Android resources (drawables, strings for localization, values)
+└── build.gradle.kts     # Gradle build configurations and dependencies
+
+```
 ## Setup Instructions
 To install and run the Hasta-Shilpa application locally, follow these steps:
 
