@@ -5,7 +5,7 @@ Hasta-Shilpa is a comprehensive Android application designed specifically for ba
 
 ## Features
 - **Design Discovery**: Browse a catalog of bamboo and cane furniture designs.
-- **Blueprint Viewing**: Access detailed technical sketches with measurements for each product.
+- **Blueprint Viewing**: Access detailed zoomable technical sketches with measurements for each product.
 - **Material Tracking**: Keep track of required materials for different projects.
 - **Price Calculation**: Tools to help calculate the cost and selling price of crafted items.
 - **Marketplace**: Showcase finished products to potential buyers.
